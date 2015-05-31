@@ -1994,8 +1994,8 @@
 			-webkit-transition: opacity 0.2s ease-in-out;
 			-ms-transition: opacity 0.2s ease-in-out;
 			transition: opacity 0.2s ease-in-out;
-			background: url("images/overlay.png");
-			border-radius: 0.35em;
+/*			background: url("images/overlay.png");
+*/			border-radius: 0.35em;
 			content: '';
 			display: block;
 			height: 100%;
@@ -2039,8 +2039,8 @@
 			}
 
 			.image.thumb:hover:before {
-				background: url("images/overlay.png"), url("images/overlay.png");
-				opacity: 1.0;
+/*				background: url("images/overlay.png"), url("images/overlay.png");
+*/				opacity: 1.0;
 			}
 
 		.image img {
@@ -2075,8 +2075,8 @@
 		}
 
 			.image.fit img {
-				width: 100%;
-			}
+/*				width: 100%;
+*/			}
 
 		.image.avatar {
 			border-radius: 100%;
